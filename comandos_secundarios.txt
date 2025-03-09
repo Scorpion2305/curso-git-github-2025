@@ -1,1 +1,8 @@
-esse arquivo contém comandos secudarios
+esse arquivo contém comandos secundários
+
+- Primeiro comando
+- Segundo comando
+
+# Comandos mais genéricos 
+
+- comandos estranhos
