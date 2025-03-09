@@ -9,3 +9,5 @@ Um curso para iniciantes aprenderem a trabalhar com versionamento de código e r
 
 Pessoas participantes:
 Felipe
+
+Fazendo alteração
