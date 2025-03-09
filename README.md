@@ -6,6 +6,7 @@ Um curso para iniciantes aprenderem a trabalhar com versionamento de código e r
 ## Fluxo de trabalho Git Local
 
 1. git clone 
+2. fork
 
 Pessoas participantes:
 Felipe
