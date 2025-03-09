@@ -2,6 +2,7 @@
 
 Um curso para iniciantes aprenderem a trabalhar com versionamento de código e repositórios remotos com GITHUB.
 
+Alem do youtube, tem instagram
 
 ## Fluxo de trabalho Git Local
 
