@@ -7,6 +7,7 @@ Um curso para iniciantes aprenderem a trabalhar com versionamento de código e r
 
 1. git clone 
 2. fork
+3. git merge
 
 Pessoas participantes:
 Felipe
