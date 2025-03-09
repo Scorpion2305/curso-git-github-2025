@@ -6,3 +6,5 @@ esse arquivo contém comandos secundários
 # Comandos mais genéricos 
 
 - comandos estranhos
+
+#Mais comandos
